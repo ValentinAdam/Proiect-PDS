@@ -11,13 +11,13 @@
 
 ### Fișiere audio:
 
-Pentru testarea algoritmului, am utilizat un sample din melodia Yiruma - River flows in you.
+Pentru testarea algoritmului, am utilizat un sample din melodia Yiruma - River flows in you. Mai jos sunt cele 3 fișiere audio, cu melodia originală, melodia cu ecou și melodia cu reverberație.
 
-![Yiruma - River flows in you](yiruma.wav)
+https://github.com/ValentinAdam/Proiect-PDS/assets/56690190/55125de7-37a0-453e-bd0c-4c31998dfe3f
 
-![Yiruma - River flows in you (echo)](yiruma_echo.wav)
+https://github.com/ValentinAdam/Proiect-PDS/assets/56690190/f99a8688-f7b0-4500-9185-2a0ec2409319
 
-![Yiruma - River flows in you (reverberation)](yiruma_reverberation.wav)
+https://github.com/ValentinAdam/Proiect-PDS/assets/56690190/316b693a-c3be-411c-b12f-546df517bd46
 
 ### Simularea timpului de execuție
 
@@ -25,3 +25,10 @@ Pentru testarea algoritmului, am utilizat un sample din melodia Yiruma - River f
 ![DSP_Runtime_V2](DSP_Runtime_V2.png)
 ![DSP_Runtime_V3](DSP_Runtime_V3.png)
 ![DSP_Runtime_V4](DSP_Runtime_V4.png)
+
+
+
+
+
+
+
